@@ -77,3 +77,36 @@ jobs:
           # RAILS_MASTER_KEY: ${{ secrets.RAILS_MASTER_KEY }}
           # REDIS_URL: redis://localhost:6379/0
         run: bin/rails db:test:prepare test
+
+  # Deploys to Heroku, but ONLY for a push to main and ONLY after every check above passed
+  # (security scans, lint, tests). Pull requests and failed checks never deploy.
+  # Needs the repository secret HEROKU_API_KEY (a Heroku authorization token).
+  deploy:
+    needs: [ scan_ruby, lint, test ]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    # One deploy at a time; a newer push waits instead of racing an older one.
+    concurrency:
+      group: heroku-deploy
+      cancel-in-progress: false
+    env:
+      HEROKU_APP: nfl-api
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0             # Heroku refuses pushes from a shallow clone
+          persist-credentials: false # the GitHub token is not needed for this job
+
+      - name: Push to Heroku
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+        run: |
+          if [ -z "$HEROKU_API_KEY" ]; then
+            echo "::error::The HEROKU_API_KEY secret is missing (repo Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+          git push "https://heroku:${HEROKU_API_KEY}@git.heroku.com/${HEROKU_APP}.git" HEAD:refs/heads/main
