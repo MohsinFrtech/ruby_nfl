@@ -1,0 +1,1459 @@
+{
+ "id": "9",
+ "name": "National Football League",
+ "season": {
+  "year": 2026,
+  "startDate": "2026-08-06T07:00Z",
+  "endDate": "2027-02-16T07:59Z",
+  "displayName": "2026"
+ },
+ "standings": {
+  "id": "1",
+  "name": "playoff",
+  "displayName": "Playoff Standings",
+  "season": 2026,
+  "seasonType": 2,
+  "entries": [
+   {
+    "team": {
+     "id": "26",
+     "location": "Seattle",
+     "name": "Seahawks",
+     "abbreviation": "SEA",
+     "displayName": "Seattle Seahawks",
+     "shortDisplayName": "Seahawks",
+     "logos": [
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+       "rel": [
+        "full",
+        "default"
+       ]
+      },
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/sea.png",
+       "rel": [
+        "full",
+        "scoreboard",
+        "dark"
+       ]
+      }
+     ]
+    },
+    "stats": [
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "losses",
+      "value": 4,
+      "displayValue": "4"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "winpercent",
+      "value": 0.5555555555555556,
+      "displayValue": ".556"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "wins",
+      "value": 5,
+      "displayValue": "5"
+     },
+     {
+      "name": "conferenceRank",
+      "displayName": "Conference Rank",
+      "type": "conferencerank",
+      "value": 8,
+      "displayValue": "8"
+     },
+     {
+      "name": "conferenceRecord",
+      "displayName": "Conference record",
+      "type": "conferencerecord",
+      "value": 0,
+      "displayValue": "2-3"
+     },
+     {
+      "name": "divisionId",
+      "displayName": "Division",
+      "type": "divisionid",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "divisionlosses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRank",
+      "displayName": "Division Rank",
+      "type": "divisionrank",
+      "value": 2,
+      "displayValue": "2"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "divisionrecord",
+      "value": 0,
+      "displayValue": "2-1"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "divisionwins",
+      "value": 2,
+      "displayValue": "2.000"
+     },
+     {
+      "name": "lossOpponents",
+      "displayName": "Loss Opponents",
+      "type": "lossopponents",
+      "value": 0,
+      "displayValue": "WSH, sf, den, chi"
+     },
+     {
+      "name": "pointsAllowed",
+      "displayName": "Points Allowed",
+      "type": "pointsallowed",
+      "value": 162,
+      "displayValue": "162"
+     },
+     {
+      "name": "pointsScored",
+      "displayName": "Points Scored",
+      "type": "pointsscored",
+      "value": 202,
+      "displayValue": "202"
+     },
+     {
+      "name": "projectedWins",
+      "displayName": "Wins",
+      "type": "projectedwins",
+      "value": 5,
+      "displayValue": "5"
+     },
+     {
+      "name": "strengthOfSchedule",
+      "displayName": "Strength of schedule",
+      "type": "strengthofschedule",
+      "value": 0.532051282051282,
+      "displayValue": ".532"
+     },
+     {
+      "name": "strengthOfVictory",
+      "displayName": "Strength of victory",
+      "type": "strengthofvictory",
+      "value": 0.3953488372093023,
+      "displayValue": ".395"
+     },
+     {
+      "id": "907",
+      "name": "Playoff",
+      "displayName": "Playoff",
+      "type": "playoff",
+      "summary": "5-4",
+      "displayValue": "5-4"
+     },
+     {
+      "name": "gamesBehind",
+      "displayName": "Games Back",
+      "type": "total_gamesbehind",
+      "value": 2.5,
+      "displayValue": "2.5"
+     },
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "total_losses",
+      "value": 4,
+      "displayValue": "4"
+     },
+     {
+      "name": "pointDifferential",
+      "displayName": "Point Differential",
+      "type": "total_pointdifferential",
+      "value": 40,
+      "displayValue": "+40"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "total_ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "total_winpercent",
+      "value": 0.5555556,
+      "displayValue": ".556"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "total_wins",
+      "value": 5,
+      "displayValue": "5"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "total_divisionlosses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "total_divisionrecord",
+      "value": 0,
+      "displayValue": "2-1"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "total_divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "total_divisionwins",
+      "value": 2,
+      "displayValue": "2.000"
+     },
+     {
+      "id": "0",
+      "name": "overall",
+      "type": "total",
+      "summary": "5-4",
+      "displayValue": "5-4"
+     }
+    ]
+   },
+   {
+    "team": {
+     "id": "22",
+     "location": "Arizona",
+     "name": "Cardinals",
+     "abbreviation": "ARI",
+     "displayName": "Arizona Cardinals",
+     "shortDisplayName": "Cardinals",
+     "logos": [
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+       "rel": [
+        "full",
+        "default"
+       ]
+      },
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ari.png",
+       "rel": [
+        "full",
+        "scoreboard",
+        "dark"
+       ]
+      }
+     ]
+    },
+    "stats": [
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "losses",
+      "value": 6,
+      "displayValue": "6"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "winpercent",
+      "value": 0.3333333333333333,
+      "displayValue": ".333"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "wins",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "conferenceRank",
+      "displayName": "Conference Rank",
+      "type": "conferencerank",
+      "value": 15,
+      "displayValue": "15"
+     },
+     {
+      "name": "conferenceRecord",
+      "displayName": "Conference record",
+      "type": "conferencerecord",
+      "value": 0,
+      "displayValue": "2-5"
+     },
+     {
+      "name": "divisionId",
+      "displayName": "Division",
+      "type": "divisionid",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "divisionlosses",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "divisionRank",
+      "displayName": "Division Rank",
+      "type": "divisionrank",
+      "value": 4,
+      "displayValue": "4"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "divisionrecord",
+      "value": 0,
+      "displayValue": "1-3"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "divisionwins",
+      "value": 1,
+      "displayValue": "1.000"
+     },
+     {
+      "name": "lossOpponents",
+      "displayName": "Loss Opponents",
+      "type": "lossopponents",
+      "value": 0,
+      "displayValue": "sea, sea, sf, nyg, det, den"
+     },
+     {
+      "name": "pointsAllowed",
+      "displayName": "Points Allowed",
+      "type": "pointsallowed",
+      "value": 255,
+      "displayValue": "255"
+     },
+     {
+      "name": "pointsScored",
+      "displayName": "Points Scored",
+      "type": "pointsscored",
+      "value": 178,
+      "displayValue": "178"
+     },
+     {
+      "name": "projectedWins",
+      "displayName": "Wins",
+      "type": "projectedwins",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "strengthOfSchedule",
+      "displayName": "Strength of schedule",
+      "type": "strengthofschedule",
+      "value": 0.5705128205128205,
+      "displayValue": ".571"
+     },
+     {
+      "name": "strengthOfVictory",
+      "displayName": "Strength of victory",
+      "type": "strengthofvictory",
+      "value": 0.34615384615384615,
+      "displayValue": ".346"
+     },
+     {
+      "id": "907",
+      "name": "Playoff",
+      "displayName": "Playoff",
+      "type": "playoff",
+      "summary": "3-6",
+      "displayValue": "3-6"
+     },
+     {
+      "name": "gamesBehind",
+      "displayName": "Games Back",
+      "type": "total_gamesbehind",
+      "value": 4.5,
+      "displayValue": "4.5"
+     },
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "total_losses",
+      "value": 6,
+      "displayValue": "6"
+     },
+     {
+      "name": "pointDifferential",
+      "displayName": "Point Differential",
+      "type": "total_pointdifferential",
+      "value": -77,
+      "displayValue": "-77"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "total_ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "total_winpercent",
+      "value": 0.33333334,
+      "displayValue": ".333"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "total_wins",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "total_divisionlosses",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "total_divisionrecord",
+      "value": 0,
+      "displayValue": "1-3"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "total_divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "total_divisionwins",
+      "value": 1,
+      "displayValue": "1.000"
+     },
+     {
+      "id": "0",
+      "name": "overall",
+      "type": "total",
+      "summary": "3-6",
+      "displayValue": "3-6"
+     }
+    ]
+   },
+   {
+    "team": {
+     "id": "15",
+     "location": "Miami",
+     "name": "Dolphins",
+     "abbreviation": "MIA",
+     "displayName": "Miami Dolphins",
+     "shortDisplayName": "Dolphins",
+     "logos": [
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+       "rel": [
+        "full",
+        "default"
+       ]
+      },
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/mia.png",
+       "rel": [
+        "full",
+        "scoreboard",
+        "dark"
+       ]
+      }
+     ]
+    },
+    "stats": [
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "losses",
+      "value": 7,
+      "displayValue": "7"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "winpercent",
+      "value": 0.125,
+      "displayValue": ".125"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "wins",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "conferenceRank",
+      "displayName": "Conference Rank",
+      "type": "conferencerank",
+      "value": 14,
+      "displayValue": "14"
+     },
+     {
+      "name": "conferenceRecord",
+      "displayName": "Conference record",
+      "type": "conferencerecord",
+      "value": 0,
+      "displayValue": "1-4"
+     },
+     {
+      "name": "divisionId",
+      "displayName": "Division",
+      "type": "divisionid",
+      "value": 4,
+      "displayValue": "4"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "divisionlosses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRank",
+      "displayName": "Division Rank",
+      "type": "divisionrank",
+      "value": 4,
+      "displayValue": "4"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "divisionrecord",
+      "value": 0,
+      "displayValue": "1-1"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "divisionwins",
+      "value": 1,
+      "displayValue": "1.000"
+     },
+     {
+      "name": "lossOpponents",
+      "displayName": "Loss Opponents",
+      "type": "lossopponents",
+      "value": 0,
+      "displayValue": "lv, sf, kc, min, cin, NE, det"
+     },
+     {
+      "name": "pointsAllowed",
+      "displayName": "Points Allowed",
+      "type": "pointsallowed",
+      "value": 200,
+      "displayValue": "200"
+     },
+     {
+      "name": "pointsScored",
+      "displayName": "Points Scored",
+      "type": "pointsscored",
+      "value": 126,
+      "displayValue": "126"
+     },
+     {
+      "name": "projectedWins",
+      "displayName": "Wins",
+      "type": "projectedwins",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "strengthOfSchedule",
+      "displayName": "Strength of schedule",
+      "type": "strengthofschedule",
+      "value": 0.6268656716417911,
+      "displayValue": ".627"
+     },
+     {
+      "name": "strengthOfVictory",
+      "displayName": "Strength of victory",
+      "type": "strengthofvictory",
+      "value": 0.2222222222222222,
+      "displayValue": ".222"
+     },
+     {
+      "id": "907",
+      "name": "Playoff",
+      "displayName": "Playoff",
+      "type": "playoff",
+      "summary": "1-7",
+      "displayValue": "1-7"
+     },
+     {
+      "name": "gamesBehind",
+      "displayName": "Games Back",
+      "type": "total_gamesbehind",
+      "value": 6,
+      "displayValue": "6"
+     },
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "total_losses",
+      "value": 7,
+      "displayValue": "7"
+     },
+     {
+      "name": "pointDifferential",
+      "displayName": "Point Differential",
+      "type": "total_pointdifferential",
+      "value": -74,
+      "displayValue": "-74"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "total_ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "total_winpercent",
+      "value": 0.125,
+      "displayValue": ".125"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "total_wins",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "total_divisionlosses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "total_divisionrecord",
+      "value": 0,
+      "displayValue": "1-1"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "total_divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "total_divisionwins",
+      "value": 1,
+      "displayValue": "1.000"
+     },
+     {
+      "id": "0",
+      "name": "overall",
+      "type": "total",
+      "summary": "1-7",
+      "displayValue": "1-7"
+     }
+    ]
+   },
+   {
+    "team": {
+     "id": "2",
+     "location": "Buffalo",
+     "name": "Bills",
+     "abbreviation": "BUF",
+     "displayName": "Buffalo Bills",
+     "shortDisplayName": "Bills",
+     "logos": [
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+       "rel": [
+        "full",
+        "default"
+       ]
+      },
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/buf.png",
+       "rel": [
+        "full",
+        "scoreboard",
+        "dark"
+       ]
+      }
+     ]
+    },
+    "stats": [
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "losses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "winpercent",
+      "value": 0.875,
+      "displayValue": ".875"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "wins",
+      "value": 7,
+      "displayValue": "7"
+     },
+     {
+      "name": "conferenceRank",
+      "displayName": "Conference Rank",
+      "type": "conferencerank",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "conferenceRecord",
+      "displayName": "Conference record",
+      "type": "conferencerecord",
+      "value": 0,
+      "displayValue": "4-1"
+     },
+     {
+      "name": "divisionId",
+      "displayName": "Division",
+      "type": "divisionid",
+      "value": 4,
+      "displayValue": "4"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "divisionlosses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRank",
+      "displayName": "Division Rank",
+      "type": "divisionrank",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "divisionrecord",
+      "value": 0,
+      "displayValue": "0-1"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "divisionwins",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "lossOpponents",
+      "displayName": "Loss Opponents",
+      "type": "lossopponents",
+      "value": 0,
+      "displayValue": "NE"
+     },
+     {
+      "name": "pointsAllowed",
+      "displayName": "Points Allowed",
+      "type": "pointsallowed",
+      "value": 187,
+      "displayValue": "187"
+     },
+     {
+      "name": "pointsScored",
+      "displayName": "Points Scored",
+      "type": "pointsscored",
+      "value": 256,
+      "displayValue": "256"
+     },
+     {
+      "name": "projectedWins",
+      "displayName": "Wins",
+      "type": "projectedwins",
+      "value": 7,
+      "displayValue": "7"
+     },
+     {
+      "name": "strengthOfSchedule",
+      "displayName": "Strength of schedule",
+      "type": "strengthofschedule",
+      "value": 0.4852941176470588,
+      "displayValue": ".485"
+     },
+     {
+      "name": "strengthOfVictory",
+      "displayName": "Strength of victory",
+      "type": "strengthofvictory",
+      "value": 0.4745762711864407,
+      "displayValue": ".475"
+     },
+     {
+      "id": "907",
+      "name": "Playoff",
+      "displayName": "Playoff",
+      "type": "playoff",
+      "summary": "7-1",
+      "displayValue": "7-1"
+     },
+     {
+      "name": "gamesBehind",
+      "displayName": "Games Back",
+      "type": "total_gamesbehind",
+      "value": 0,
+      "displayValue": "-"
+     },
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "total_losses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "pointDifferential",
+      "displayName": "Point Differential",
+      "type": "total_pointdifferential",
+      "value": 69,
+      "displayValue": "+69"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "total_ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "total_winpercent",
+      "value": 0.875,
+      "displayValue": ".875"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "total_wins",
+      "value": 7,
+      "displayValue": "7"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "total_divisionlosses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "total_divisionrecord",
+      "value": 0,
+      "displayValue": "0-1"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "total_divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "total_divisionwins",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "id": "0",
+      "name": "overall",
+      "type": "total",
+      "summary": "7-1",
+      "displayValue": "7-1"
+     }
+    ]
+   },
+   {
+    "team": {
+     "id": "19",
+     "location": "New York",
+     "name": "Giants",
+     "abbreviation": "NYG",
+     "displayName": "New York Giants",
+     "shortDisplayName": "Giants",
+     "logos": [
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+       "rel": [
+        "full",
+        "default"
+       ]
+      },
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyg.png",
+       "rel": [
+        "full",
+        "scoreboard",
+        "dark"
+       ]
+      }
+     ]
+    },
+    "stats": [
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "losses",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "ties",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "winpercent",
+      "value": 0.6111111111111112,
+      "displayValue": ".611"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "wins",
+      "value": 5,
+      "displayValue": "5"
+     },
+     {
+      "name": "conferenceRank",
+      "displayName": "Conference Rank",
+      "type": "conferencerank",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "conferenceRecord",
+      "displayName": "Conference record",
+      "type": "conferencerecord",
+      "value": 0,
+      "displayValue": "3-3-1"
+     },
+     {
+      "name": "divisionId",
+      "displayName": "Division",
+      "type": "divisionid",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "divisionlosses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRank",
+      "displayName": "Division Rank",
+      "type": "divisionrank",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "divisionrecord",
+      "value": 0,
+      "displayValue": "2-1-1"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "divisionties",
+      "value": 1,
+      "displayValue": "1.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "divisionwins",
+      "value": 2,
+      "displayValue": "2.000"
+     },
+     {
+      "name": "lossOpponents",
+      "displayName": "Loss Opponents",
+      "type": "lossopponents",
+      "value": 0,
+      "displayValue": "lar, WSH, no"
+     },
+     {
+      "name": "pointsAllowed",
+      "displayName": "Points Allowed",
+      "type": "pointsallowed",
+      "value": 196,
+      "displayValue": "196"
+     },
+     {
+      "name": "pointsScored",
+      "displayName": "Points Scored",
+      "type": "pointsscored",
+      "value": 203,
+      "displayValue": "203"
+     },
+     {
+      "name": "projectedWins",
+      "displayName": "Wins",
+      "type": "projectedwins",
+      "value": 5,
+      "displayValue": "5"
+     },
+     {
+      "name": "strengthOfSchedule",
+      "displayName": "Strength of schedule",
+      "type": "strengthofschedule",
+      "value": 0.358974358974359,
+      "displayValue": ".359"
+     },
+     {
+      "name": "strengthOfVictory",
+      "displayName": "Strength of victory",
+      "type": "strengthofvictory",
+      "value": 0.3023255813953488,
+      "displayValue": ".302"
+     },
+     {
+      "id": "907",
+      "name": "Playoff",
+      "displayName": "Playoff",
+      "type": "playoff",
+      "summary": "5-3-1",
+      "displayValue": "5-3-1"
+     },
+     {
+      "name": "gamesBehind",
+      "displayName": "Games Back",
+      "type": "total_gamesbehind",
+      "value": 2,
+      "displayValue": "2"
+     },
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "total_losses",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "pointDifferential",
+      "displayName": "Point Differential",
+      "type": "total_pointdifferential",
+      "value": 7,
+      "displayValue": "+7"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "total_ties",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "total_winpercent",
+      "value": 0.6111111,
+      "displayValue": ".611"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "total_wins",
+      "value": 5,
+      "displayValue": "5"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "total_divisionlosses",
+      "value": 1,
+      "displayValue": "1"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "total_divisionrecord",
+      "value": 0,
+      "displayValue": "2-1-1"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "total_divisionties",
+      "value": 1,
+      "displayValue": "1.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "total_divisionwins",
+      "value": 2,
+      "displayValue": "2.000"
+     },
+     {
+      "id": "0",
+      "name": "overall",
+      "type": "total",
+      "summary": "5-3-1",
+      "displayValue": "5-3-1"
+     }
+    ]
+   },
+   {
+    "team": {
+     "id": "1",
+     "location": "Atlanta",
+     "name": "Falcons",
+     "abbreviation": "ATL",
+     "displayName": "Atlanta Falcons",
+     "shortDisplayName": "Falcons",
+     "logos": [
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+       "rel": [
+        "full",
+        "default"
+       ]
+      },
+      {
+       "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/atl.png",
+       "rel": [
+        "full",
+        "scoreboard",
+        "dark"
+       ]
+      }
+     ]
+    },
+    "stats": [
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "losses",
+      "value": 6,
+      "displayValue": "6"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "winpercent",
+      "value": 0.3333333333333333,
+      "displayValue": ".333"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "wins",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "conferenceRank",
+      "displayName": "Conference Rank",
+      "type": "conferencerank",
+      "value": 14,
+      "displayValue": "14"
+     },
+     {
+      "name": "conferenceRecord",
+      "displayName": "Conference record",
+      "type": "conferencerecord",
+      "value": 0,
+      "displayValue": "3-3"
+     },
+     {
+      "name": "divisionId",
+      "displayName": "Division",
+      "type": "divisionid",
+      "value": 11,
+      "displayValue": "11"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "divisionlosses",
+      "value": 2,
+      "displayValue": "2"
+     },
+     {
+      "name": "divisionRank",
+      "displayName": "Division Rank",
+      "type": "divisionrank",
+      "value": 4,
+      "displayValue": "4"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "divisionrecord",
+      "value": 0,
+      "displayValue": "1-2"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "divisionwins",
+      "value": 1,
+      "displayValue": "1.000"
+     },
+     {
+      "name": "lossOpponents",
+      "displayName": "Loss Opponents",
+      "type": "lossopponents",
+      "value": 0,
+      "displayValue": "pit, car, bal, chi, tb, cin"
+     },
+     {
+      "name": "pointsAllowed",
+      "displayName": "Points Allowed",
+      "type": "pointsallowed",
+      "value": 223,
+      "displayValue": "223"
+     },
+     {
+      "name": "pointsScored",
+      "displayName": "Points Scored",
+      "type": "pointsscored",
+      "value": 188,
+      "displayValue": "188"
+     },
+     {
+      "name": "projectedWins",
+      "displayName": "Wins",
+      "type": "projectedwins",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "strengthOfSchedule",
+      "displayName": "Strength of schedule",
+      "type": "strengthofschedule",
+      "value": 0.5921052631578947,
+      "displayValue": ".592"
+     },
+     {
+      "name": "strengthOfVictory",
+      "displayName": "Strength of victory",
+      "type": "strengthofvictory",
+      "value": 0.64,
+      "displayValue": ".640"
+     },
+     {
+      "id": "907",
+      "name": "Playoff",
+      "displayName": "Playoff",
+      "type": "playoff",
+      "summary": "3-6",
+      "displayValue": "3-6"
+     },
+     {
+      "name": "gamesBehind",
+      "displayName": "Games Back",
+      "type": "total_gamesbehind",
+      "value": 4.5,
+      "displayValue": "4.5"
+     },
+     {
+      "name": "losses",
+      "displayName": "Losses",
+      "type": "total_losses",
+      "value": 6,
+      "displayValue": "6"
+     },
+     {
+      "name": "pointDifferential",
+      "displayName": "Point Differential",
+      "type": "total_pointdifferential",
+      "value": -35,
+      "displayValue": "-35"
+     },
+     {
+      "name": "ties",
+      "displayName": "Ties",
+      "type": "total_ties",
+      "value": 0,
+      "displayValue": "0"
+     },
+     {
+      "name": "winPercent",
+      "displayName": "Win Percentage",
+      "type": "total_winpercent",
+      "value": 0.33333334,
+      "displayValue": ".333"
+     },
+     {
+      "name": "wins",
+      "displayName": "Wins",
+      "type": "total_wins",
+      "value": 3,
+      "displayValue": "3"
+     },
+     {
+      "name": "divisionLosses",
+      "displayName": "Division Losses",
+      "type": "total_divisionlosses",
+      "value": 2,
+      "displayValue": "2"
+     },
+     {
+      "name": "divisionRecord",
+      "displayName": "Division record",
+      "type": "total_divisionrecord",
+      "value": 0,
+      "displayValue": "1-2"
+     },
+     {
+      "name": "divisionTies",
+      "displayName": "Division Tie ",
+      "type": "total_divisionties",
+      "value": 0,
+      "displayValue": "0.000"
+     },
+     {
+      "name": "divisionWins",
+      "displayName": "Division Wins ",
+      "type": "total_divisionwins",
+      "value": 1,
+      "displayValue": "1.000"
+     },
+     {
+      "id": "0",
+      "name": "overall",
+      "type": "total",
+      "summary": "3-6",
+      "displayValue": "3-6"
+     }
+    ]
+   }
+  ]
+ }
+}

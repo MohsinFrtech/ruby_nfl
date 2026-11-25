@@ -1,0 +1,149 @@
+{
+  "stats": {
+    "id": "0",
+    "name": "All Splits",
+    "abbreviation": "Any",
+    "categories": [
+      {
+        "name": "passing",
+        "displayName": "Passing",
+        "abbreviation": "pass",
+        "stats": [
+          {
+            "name": "completionPct",
+            "displayName": "Completion Percentage",
+            "shortDisplayName": "CMP%",
+            "description": "The percentage of completed passes.",
+            "abbreviation": "CMP%",
+            "value": 60.1,
+            "displayValue": "60.1",
+            "perGameValue": 59.93899917602539,
+            "perGameDisplayValue": "59.939"
+          },
+          {
+            "name": "completions",
+            "displayName": "Completions",
+            "shortDisplayName": "CMP",
+            "description": "The times a player completes a pass to another player who is eligible to catch a pass.",
+            "abbreviation": "CMP",
+            "value": 146,
+            "displayValue": "146",
+            "perGameValue": 18,
+            "perGameDisplayValue": "18"
+          },
+          {
+            "name": "interceptionPct",
+            "displayName": "Interception Percentage",
+            "shortDisplayName": "INT%",
+            "description": "The percentage of passes thrown that were intercepted by the opposing team.",
+            "abbreviation": "INT%",
+            "value": 4.5,
+            "displayValue": "4.50",
+            "perGameValue": 4.593999862670898,
+            "perGameDisplayValue": "4.594"
+          }
+        ]
+      },
+      {
+        "name": "miscellaneous",
+        "displayName": "Miscellaneous",
+        "abbreviation": "misc",
+        "stats": [
+          {
+            "name": "firstDowns",
+            "displayName": "Total 1st downs",
+            "shortDisplayName": "FIRST",
+            "description": "The the number of first downs.",
+            "abbreviation": "CMP",
+            "value": 131,
+            "displayValue": "131",
+            "perGameValue": 16,
+            "perGameDisplayValue": "16"
+          },
+          {
+            "name": "thirdDownEff",
+            "displayName": "3rd down efficiency",
+            "description": "3rd down efficiency",
+            "abbreviation": "3RDEFF",
+            "displayValue": "39-114"
+          }
+        ]
+      }
+    ]
+  },
+  "opponent": [
+    {
+      "name": "passing",
+      "displayName": "Passing",
+      "abbreviation": "pass",
+      "stats": [
+        {
+          "name": "completionPct",
+          "displayName": "Completion Percentage",
+          "shortDisplayName": "CMP%",
+          "description": "The percentage of completed passes.",
+          "abbreviation": "CMP%",
+          "value": 65.665,
+          "displayValue": "65.7",
+          "perGameValue": 65.66500091552734,
+          "perGameDisplayValue": "65.665",
+          "rank": 26,
+          "rankDisplayValue": "26th"
+        },
+        {
+          "name": "completions",
+          "displayName": "Completions",
+          "shortDisplayName": "CMP",
+          "description": "The times a player completes a pass to another player who is eligible to catch a pass.",
+          "abbreviation": "CMP",
+          "value": 153,
+          "displayValue": "153",
+          "perGameValue": 19.125,
+          "perGameDisplayValue": "19.125",
+          "rank": 2,
+          "rankDisplayValue": "2nd"
+        },
+        {
+          "name": "interceptionPct",
+          "displayName": "Interception Percentage",
+          "shortDisplayName": "INT%",
+          "description": "The percentage of passes thrown that were intercepted by the opposing team.",
+          "abbreviation": "INT%",
+          "value": 3.004,
+          "displayValue": "3.00",
+          "perGameValue": 3.003999948501587,
+          "perGameDisplayValue": "3.004",
+          "rank": 5,
+          "rankDisplayValue": "5th"
+        }
+      ]
+    },
+    {
+      "name": "miscellaneous",
+      "displayName": "Miscellaneous",
+      "abbreviation": "misc",
+      "stats": [
+        {
+          "name": "firstDowns",
+          "displayName": "Total 1st downs",
+          "shortDisplayName": "FIRST",
+          "description": "The the number of first downs.",
+          "abbreviation": "CMP",
+          "value": 156,
+          "displayValue": "156",
+          "perGameValue": 19.5,
+          "perGameDisplayValue": "19.5",
+          "rank": 11,
+          "rankDisplayValue": "11th"
+        },
+        {
+          "name": "thirdDownEff",
+          "displayName": "3rd down efficiency",
+          "description": "3rd down efficiency",
+          "abbreviation": "3RDEFF",
+          "displayValue": "34-99"
+        }
+      ]
+    }
+  ]
+}

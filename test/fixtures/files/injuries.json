@@ -1,0 +1,133 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "displayName": "Arizona Cardinals",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+      "items": [
+        {
+          "type": {
+            "id": "2",
+            "name": "INJURY_STATUS_QUESTIONABLE",
+            "description": "questionable",
+            "abbreviation": "Q"
+          },
+          "athlete": {
+            "shortName": "H. Froholdt",
+            "name": "Hjalte Froholdt",
+            "href": "https://www.espn.com/nfl/player/_/id/3886633/hjalte-froholdt",
+            "uid": "",
+            "logo": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3886633.png",
+              "alt": "Hjalte Froholdt"
+            },
+            "position": "C"
+          },
+          "status": "injury-2",
+          "description": "Nov 12: Froholdt (concussion) did not participate at practice Thursday, Zach Gershman of the Cardinals' official site reports.",
+          "date": "Nov 15",
+          "statusDesc": "Questionable"
+        },
+        {
+          "type": {
+            "id": "2",
+            "name": "INJURY_STATUS_QUESTIONABLE",
+            "description": "questionable",
+            "abbreviation": "Q"
+          },
+          "athlete": {
+            "shortName": "J. Williams",
+            "name": "Jayden Williams",
+            "href": "https://www.espn.com/nfl/player/_/id/4709718/jayden-williams",
+            "uid": "",
+            "logo": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4709718.png",
+              "alt": "Jayden Williams"
+            },
+            "position": "OT"
+          },
+          "status": "injury-2",
+          "description": "Nov 12: Williams (knee) was a limited participant at practice Thursday, Zach Gershman of the Cardinals' official site reports.",
+          "date": "Nov 15",
+          "statusDesc": "Questionable"
+        },
+        {
+          "type": {
+            "id": "2",
+            "name": "INJURY_STATUS_QUESTIONABLE",
+            "description": "questionable",
+            "abbreviation": "Q"
+          },
+          "athlete": {
+            "shortName": "A. Wingard",
+            "name": "Andrew Wingard",
+            "href": "https://www.espn.com/nfl/player/_/id/3918331/andrew-wingard",
+            "uid": "",
+            "logo": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/3918331.png",
+              "alt": "Andrew Wingard"
+            },
+            "position": "S"
+          },
+          "status": "injury-2",
+          "description": "Nov 12: Wingard (groin) did not practice Thursday, Zach Gershman of the team's official site reports.",
+          "date": "Nov 15",
+          "statusDesc": "Questionable"
+        }
+      ]
+    },
+    {
+      "displayName": "Atlanta Falcons",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+      "items": [
+        {
+          "type": {
+            "id": "2",
+            "name": "INJURY_STATUS_QUESTIONABLE",
+            "description": "questionable",
+            "abbreviation": "Q"
+          },
+          "athlete": {
+            "shortName": "C. Thomas",
+            "name": "Cameron Thomas",
+            "href": "https://www.espn.com/nfl/player/_/id/4361510/cameron-thomas",
+            "uid": "",
+            "logo": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4361510.png",
+              "alt": "Cameron Thomas"
+            },
+            "position": "DE"
+          },
+          "status": "injury-2",
+          "description": "",
+          "date": "Nov 15",
+          "statusDesc": "Questionable"
+        },
+        {
+          "type": {
+            "id": "4",
+            "name": "INJURY_STATUS_OUT",
+            "description": "out",
+            "abbreviation": "O"
+          },
+          "athlete": {
+            "shortName": "A. Thompson",
+            "name": "Anterio Thompson",
+            "href": "https://www.espn.com/nfl/player/_/id/5150660/anterio-thompson",
+            "uid": "",
+            "logo": {
+              "href": "https://a.espncdn.com/i/headshots/nfl/players/full/5150660.png",
+              "alt": "Anterio Thompson"
+            },
+            "position": "DT"
+          },
+          "status": "injury-4",
+          "description": "Oct 30: Thompson posted on social media this week that he was diagnosed with a genetic mutation on his spinal cord in early May and indicated that he was told he will \"never play football again,\" Josh Kendall of The Athletic reports.",
+          "date": "Feb 15",
+          "statusDesc": "Out"
+        }
+      ]
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,213 @@
+{
+  "player_overview": {
+    "statistics": {},
+    "news": [
+      {
+        "headline": "2026 Carolina Panthers training camp: Latest intel, updates",
+        "lastModified": "2026-08-26T22:43:13.000+00:00",
+        "root": "nfl",
+        "premium": false,
+        "links": {
+          "web": {
+            "href": "https://www.espn.com/nfl/story/_/id/49377273/carolina-panthers-training-camp-2026-intel-updates"
+          }
+        },
+        "type": "Story",
+        "section": "NFL",
+        "id": 49377273,
+        "categorized": "2026-11-12T12:07:34Z",
+        "description": "Catch up on our updates from Panthers training camp, including intel on QBs, position battles and potential breakouts.",
+        "nowId": "1-49377273",
+        "allowComments": true,
+        "images": [
+          {
+            "type": "header",
+            "url": "https://a.espncdn.com/photo/example.jpg",
+            "name": "x",
+            "width": 600,
+            "height": 400
+          }
+        ],
+        "published": "2026-08-26T22:43:13.000+00:00",
+        "byline": "Mike Kaye",
+        "source": "ESPN",
+        "dataSourceIdentifier": "85d12cd44d0f6"
+      },
+      {
+        "headline": "Panthers WR Chris Brazzell to have season-ending knee surgery",
+        "lastModified": "2026-07-30T19:12:36.000+00:00",
+        "root": "nfl",
+        "premium": false,
+        "links": {
+          "web": {
+            "href": "https://www.espn.com/nfl/story/_/id/49489959/panthers-wr-brazzell-season-ending-surgery-source-says"
+          }
+        },
+        "type": "HeadlineNews",
+        "section": "NFL",
+        "id": 49489959,
+        "categorized": "2026-09-22T13:34:14Z",
+        "description": "Panthers rookie wide receiver Chris Brazzell II will undergo season-ending surgery on his torn LCL in his left knee.",
+        "nowId": "1-49489959",
+        "allowComments": true,
+        "images": [
+          {
+            "type": "header",
+            "url": "https://a.espncdn.com/photo/example.jpg",
+            "name": "x",
+            "width": 600,
+            "height": 400
+          }
+        ],
+        "published": "2026-07-30T19:12:36.000+00:00",
+        "source": "ESPN News Services",
+        "dataSourceIdentifier": "baabe71f67710"
+      }
+    ],
+    "nextGame": {
+      "displayName": "Next Game",
+      "league": {
+        "id": "28",
+        "name": "National Football League",
+        "shortName": "NFL",
+        "abbreviation": "NFL",
+        "slug": "nfl",
+        "events": [
+          {
+            "id": "401873055",
+            "competitionId": "401873055",
+            "date": "2026-11-15T18:00:00.000+00:00",
+            "timeValid": true,
+            "name": "Carolina Panthers at New Orleans Saints",
+            "shortName": "CAR @ NO",
+            "location": "Caesars Superdome",
+            "season": 2026,
+            "seasonType": 2,
+            "seasonTypeHasGroups": false,
+            "week": 10,
+            "weekText": "Week 10",
+            "period": 0,
+            "clock": "0.0",
+            "status": "pre",
+            "fullStatus": {
+              "clock": "0.0",
+              "displayClock": "0:00",
+              "period": 0,
+              "type": {
+                "id": "1",
+                "name": "STATUS_SCHEDULED",
+                "description": "Scheduled",
+                "detail": "Sun, November 15th at 1:00 PM EST",
+                "shortDetail": "11/15 - 1:00 PM EST",
+                "state": "pre",
+                "completed": false
+              }
+            },
+            "broadcasts": [
+              {
+                "type": "TV",
+                "typeId": 1,
+                "isNational": true,
+                "broadcasterId": 148,
+                "broadcastId": 148,
+                "priority": 1,
+                "name": "Fox",
+                "shortName": "Fox",
+                "callLetters": "Fox",
+                "station": "Fox",
+                "region": "us",
+                "language": "en"
+              }
+            ],
+            "broadcast": "Fox",
+            "competitors": [
+              {
+                "id": "18",
+                "type": "team",
+                "order": 0,
+                "color": "d3bc8d",
+                "alternateColor": "000000",
+                "group": "11",
+                "homeAway": "home",
+                "abbreviation": "NO",
+                "location": "New Orleans",
+                "displayName": "New Orleans Saints",
+                "score": "0",
+                "record": "3-5",
+                "name": "Saints"
+              },
+              {
+                "id": "29",
+                "type": "team",
+                "order": 1,
+                "color": "0085ca",
+                "alternateColor": "000000",
+                "group": "11",
+                "homeAway": "away",
+                "abbreviation": "CAR",
+                "location": "Carolina",
+                "displayName": "Carolina Panthers",
+                "score": "0",
+                "record": "3-5",
+                "name": "Panthers"
+              }
+            ],
+            "onWatch": false,
+            "recent": false,
+            "odds": {
+              "provider": {
+                "id": "100",
+                "name": "DraftKings",
+                "priority": 1
+              },
+              "details": "NO -2.5",
+              "overUnder": 48.5,
+              "spread": -2.5,
+              "overOdds": -112,
+              "underOdds": -108,
+              "awayTeamOdds": {
+                "team": {
+                  "id": "29",
+                  "abbreviation": "CAR"
+                },
+                "favorite": false,
+                "underdog": true,
+                "moneyLine": 114,
+                "spreadOdds": -112
+              },
+              "homeTeamOdds": {
+                "team": {
+                  "id": "18",
+                  "abbreviation": "NO"
+                },
+                "favorite": true,
+                "underdog": false,
+                "moneyLine": -135,
+                "spreadOdds": -108
+              },
+              "moneylineWinner": false,
+              "spreadWinner": false
+            }
+          }
+        ]
+      },
+      "statistics": {}
+    },
+    "gameLog": {
+      "displayName": "Recent Games"
+    },
+    "rotowire": {
+      "headline": "The Panthers placed Brazzell (knee) on injured reserve Friday.",
+      "story": "Brazzell will officially miss his entire rookie season due to the LCL tear he suffered during Wednesday's training camp practice. The rookie third-round pick will undergo surgery and set his full attention on making a recovery for the 2027 campaign. In the wake of this transaction, Xavier Legette and John Metchie are the top candidates to secure the No. 3 wide receiver role in Carolina behind Tetairoa McMillan and Jalen Coker.",
+      "description": "The Panthers placed Brazzell (knee) on injured reserve Friday.",
+      "published": "Fri Jul 31 11:57:56 PDT 2026"
+    },
+    "fantasy": {
+      "draftRank": "1430",
+      "positionRank": "0",
+      "percentOwned": "0.08",
+      "last7Days": "0.0",
+      "projection": "Brazzell was selected by the Panthers in the third round of April's draft. He's expected to miss his rookie season due to a knee injury suffered in July. Brazzell is a tall, perimeter receiver with a big wingspan who will do most of his damage down field (career 14.2 aDOT at Tennessee) and doesn't offer much after the catch (3.6 RAC was worst in this rookie WR class). He has good speed (4.37 40-yard dash) and may settle in as a boom/bust low-volume, splash-play fantasy option. He'll battle for a starting role behind Tetairoa McMillan in 2027."
+    }
+  }
+}

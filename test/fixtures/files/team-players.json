@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "playerId": "4686911",
+      "firstName": "Jakorian",
+      "lastName": "Bennett",
+      "fullName": "Jakorian Bennett",
+      "displayName": "Jakorian Bennett",
+      "shortName": "J. Bennett",
+      "link": "https://www.espn.com/nfl/player/_/id/4686911/jakorian-bennett"
+    },
+    {
+      "playerId": "5091739",
+      "firstName": "Chris",
+      "lastName": "Brazzell II",
+      "fullName": "Chris Brazzell II",
+      "displayName": "Chris Brazzell II",
+      "shortName": "C. Brazzell II",
+      "link": "https://www.espn.com/nfl/player/_/id/5091739/chris-brazzell-ii"
+    },
+    {
+      "playerId": "4678008",
+      "firstName": "Jonathon",
+      "lastName": "Brooks",
+      "fullName": "Jonathon Brooks",
+      "displayName": "Jonathon Brooks",
+      "shortName": "J. Brooks",
+      "link": "https://www.espn.com/nfl/player/_/id/4678008/jonathon-brooks"
+    },
+    {
+      "playerId": "4035495",
+      "firstName": "Derrick",
+      "lastName": "Brown",
+      "fullName": "Derrick Brown",
+      "displayName": "Derrick Brown",
+      "shortName": "D. Brown",
+      "link": "https://www.espn.com/nfl/player/_/id/4035495/derrick-brown"
+    }
+  ]
+}

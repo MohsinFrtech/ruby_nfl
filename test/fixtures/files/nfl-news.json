@@ -1,0 +1,597 @@
+[
+  {
+    "id": 50465631,
+    "nowId": "1-50465631",
+    "contentKey": "50465631-1-22-1",
+    "dataSourceIdentifier": "d17293dd2a424",
+    "type": "Preview",
+    "headline": "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+    "description": "— The change came quickly Tuesday, but it was not unexpected when the ",
+    "lastModified": "2026-11-12T23:29:36Z",
+    "published": "2026-11-12T23:29:36Z",
+    "images": [
+      {
+        "type": "stitcher",
+        "name": "espn.applewatch.awayhome.1",
+        "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873062.png?templateId=espn.applewatch.awayhome.1"
+      },
+      {
+        "type": "stitcher",
+        "name": "espn.applewatch.homeaway.1",
+        "url": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873062.png?templateId=espn.applewatch.homeaway.1"
+      }
+    ],
+    "categories": [
+      {
+        "id": 9572,
+        "type": "league",
+        "uid": "s:20~l:28",
+        "guid": "ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4",
+        "description": "NFL",
+        "sportId": 28,
+        "leagueId": 28,
+        "league": {
+          "id": 28,
+          "description": "NFL",
+          "abbreviation": "NFL",
+          "links": {
+            "mobile": {
+              "leagues": {
+                "href": "https://www.espn.com/nfl/"
+              }
+            },
+            "web": {
+              "leagues": {
+                "href": "https://www.espn.com/nfl/"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 2553,
+        "type": "team",
+        "uid": "s:20~l:28~t:13",
+        "guid": "b18540eb-6f2b-534c-e7f9-9bd930518da9",
+        "description": "Las Vegas Raiders",
+        "sportId": 28,
+        "teamId": 13,
+        "team": {
+          "id": 13,
+          "description": "Las Vegas Raiders",
+          "abbreviation": "LV",
+          "shortDisplayName": "Raiders",
+          "links": {
+            "mobile": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders"
+              }
+            },
+            "web": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 1693,
+        "type": "team",
+        "uid": "s:20~l:28~t:26",
+        "guid": "3767a23c-a17d-294f-288a-9086ad1f0680",
+        "description": "Seattle Seahawks",
+        "sportId": 28,
+        "teamId": 26,
+        "team": {
+          "id": 26,
+          "description": "Seattle Seahawks",
+          "abbreviation": "SEA",
+          "shortDisplayName": "Seahawks",
+          "links": {
+            "mobile": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks"
+              }
+            },
+            "web": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "event",
+        "uid": "s:20~l:28~e:401873062",
+        "guid": "14a26548-54a7-330e-8b28-63c09261f4d2",
+        "description": "Seattle Seahawks @ Las Vegas Raiders",
+        "eventId": 401873062,
+        "event": {
+          "id": 401873062,
+          "sport": "football",
+          "league": "nfl",
+          "description": "Seattle Seahawks @ Las Vegas Raiders"
+        }
+      }
+    ],
+    "links": {
+      "api": {
+        "self": {
+          "href": "https://content.core.api.espn.com/v1/sports/news/50465631"
+        }
+      },
+      "app": {
+        "sportscenter": {
+          "href": "sportscenter://x-callback-url/showStory?uid=50465631"
+        }
+      },
+      "mobile": {
+        "href": "http://m.espn.go.com/nfl/story?storyId=50465631"
+      },
+      "web": {
+        "href": "http://www.espn.com/nfl/preview?gameId=401873062"
+      }
+    },
+    "premium": false
+  },
+  {
+    "id": 50469309,
+    "nowId": "1-50469309",
+    "contentKey": "50469309-1-5-1",
+    "dataSourceIdentifier": "44be63df598af",
+    "type": "HeadlineNews",
+    "headline": "Giants' Jameis Winston lets 'the dogs out' on 4th down; Commanders don't bite",
+    "description": "Giants quarterback Jameis Winston broke into a rendition of \"Who Let the Dogs Out\" in an attempt to draw the Commanders offside on fourth down in New York's 24-21 loss.",
+    "lastModified": "2026-11-13T07:26:59Z",
+    "published": "2026-11-13T07:26:59Z",
+    "images": [
+      {
+        "dataSourceIdentifier": "8dedbde03b1d0",
+        "id": 50469049,
+        "type": "header",
+        "name": "261112 Jameis Winston [600x400]",
+        "caption": "Jameis Winston said the Giants had practiced using \"Who Let the Dogs Out\" in their cadence as a ploy to draw Washington offside.",
+        "credit": "Emilee Chinn/Getty Images",
+        "height": 400,
+        "width": 600,
+        "url": "https://a.espncdn.com/photo/2026/1113/r1745172_600x400_3-2.jpg"
+      },
+      {
+        "type": "Media",
+        "name": "'Who let the dogs out?' Jameis Winston delivers hilarious hard count",
+        "caption": "'Who let the dogs out?' Jameis Winston delivers hilarious hard count",
+        "height": 324,
+        "width": 576,
+        "url": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1112/b975c747d399438e9c91b31aace650121409/b975c747d399438e9c91b31aace650121409.jpg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 9572,
+        "type": "league",
+        "uid": "s:20~l:28",
+        "guid": "ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4",
+        "description": "NFL",
+        "sportId": 28,
+        "leagueId": 28,
+        "league": {
+          "id": 28,
+          "description": "NFL",
+          "abbreviation": "NFL",
+          "links": {
+            "mobile": {
+              "leagues": {
+                "href": "https://www.espn.com/nfl/"
+              }
+            },
+            "web": {
+              "leagues": {
+                "href": "https://www.espn.com/nfl/"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 1352,
+        "type": "team",
+        "uid": "s:20~l:28~t:19",
+        "guid": "378600ea-2397-8364-8399-b7c1606a49a7",
+        "description": "New York Giants",
+        "sportId": 28,
+        "teamId": 19,
+        "team": {
+          "id": 19,
+          "description": "New York Giants",
+          "abbreviation": "NYG",
+          "shortDisplayName": "Giants",
+          "links": {
+            "mobile": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants"
+              }
+            },
+            "web": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 138777,
+        "type": "athlete",
+        "uid": "s:20~l:28~a:2969939",
+        "guid": "57af2581-cec9-d5a3-2afe-7a719925f78b",
+        "description": "Jameis Winston",
+        "sportId": 28,
+        "athleteId": 2969939,
+        "athlete": {
+          "id": 2969939,
+          "description": "Jameis Winston",
+          "links": {
+            "mobile": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/2969939/jameis-winston"
+              }
+            },
+            "web": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/2969939/jameis-winston"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 1462,
+        "type": "team",
+        "uid": "s:20~l:28~t:28",
+        "guid": "fbeaf73e-6d6c-cca4-0809-713d9d741f90",
+        "description": "Washington Commanders",
+        "sportId": 28,
+        "teamId": 28,
+        "team": {
+          "id": 28,
+          "description": "Washington Commanders",
+          "abbreviation": "WSH",
+          "shortDisplayName": "Commanders",
+          "links": {
+            "mobile": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders"
+              }
+            },
+            "web": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 696298,
+        "type": "contributor",
+        "guid": "b8dd259e-f5fa-3124-8d1c-5c0caf40d38f",
+        "description": "Jordan Raanan",
+        "slug": "jordan-raanan",
+        "contributor": {
+          "id": 2721,
+          "description": "Jordan Raanan"
+        }
+      }
+    ],
+    "byline": "Jordan Raanan",
+    "links": {
+      "api": {
+        "self": {
+          "href": "https://content.core.api.espn.com/v1/sports/news/50469309"
+        }
+      },
+      "app": {
+        "sportscenter": {
+          "href": "sportscenter://x-callback-url/showStory?uid=50469309"
+        }
+      },
+      "mobile": {
+        "href": "http://m.espn.go.com/nfl/story?storyId=50469309"
+      },
+      "web": {
+        "href": "https://www.espn.com/nfl/story/_/id/50469309/giants-jameis-winston-barks-let-dogs-vs-commanders"
+      }
+    },
+    "premium": false
+  },
+  {
+    "id": 50468530,
+    "nowId": "1-50468530",
+    "contentKey": "50468530-1-293-1",
+    "dataSourceIdentifier": "8615b26ae0589",
+    "type": "Media",
+    "headline": "Commanders outlast Giants 24-21 in NFC East TNF thriller",
+    "description": "Commanders outlast Giants 24-21 in NFC East TNF thriller",
+    "lastModified": "2026-11-13T04:35:39Z",
+    "published": "2026-11-13T04:35:39Z",
+    "images": [
+      {
+        "name": "Commanders outlast Giants 24-21 in NFC East TNF thriller",
+        "caption": "Commanders outlast Giants 24-21 in NFC East TNF thriller",
+        "alt": "",
+        "height": 324,
+        "width": 576,
+        "url": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1113/ed4e2a23-f184-42f3-8b96-fca839e2375f/ed4e2a23-f184-42f3-8b96-fca839e2375f.jpg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 537704,
+        "type": "athlete",
+        "uid": "s:20~l:28~a:5081432",
+        "guid": "c9a464f7-ed0f-30c9-afe7-af4a535c83ef",
+        "description": "Antonio Williams",
+        "sportId": 28,
+        "athleteId": 5081432,
+        "athlete": {
+          "id": 5081432,
+          "description": "Antonio Williams",
+          "links": {
+            "mobile": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/5081432/antonio-williams"
+              }
+            },
+            "web": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/5081432/antonio-williams"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 139089,
+        "type": "athlete",
+        "uid": "s:20~l:28~a:2976212",
+        "guid": "d6ba7023-458c-f59a-4af2-638770067518",
+        "description": "Stefon Diggs",
+        "sportId": 28,
+        "athleteId": 2976212,
+        "athlete": {
+          "id": 2976212,
+          "description": "Stefon Diggs",
+          "links": {
+            "mobile": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/2976212/stefon-diggs"
+              }
+            },
+            "web": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/2976212/stefon-diggs"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 9572,
+        "type": "league",
+        "uid": "s:20~l:28",
+        "guid": "ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4",
+        "description": "NFL",
+        "sportId": 28,
+        "leagueId": 28,
+        "league": {
+          "id": 28,
+          "description": "NFL",
+          "abbreviation": "NFL",
+          "links": {
+            "mobile": {
+              "leagues": {
+                "href": "https://www.espn.com/nfl/"
+              }
+            },
+            "web": {
+              "leagues": {
+                "href": "https://www.espn.com/nfl/"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 1462,
+        "type": "team",
+        "uid": "s:20~l:28~t:28",
+        "guid": "fbeaf73e-6d6c-cca4-0809-713d9d741f90",
+        "description": "Washington Commanders",
+        "sportId": 28,
+        "teamId": 28,
+        "team": {
+          "id": 28,
+          "description": "Washington Commanders",
+          "abbreviation": "WSH",
+          "shortDisplayName": "Commanders",
+          "links": {
+            "mobile": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders"
+              }
+            },
+            "web": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 450385,
+        "type": "athlete",
+        "uid": "s:20~l:28~a:4696981",
+        "guid": "0be760c4-3eb7-338a-9b0b-20de5895543c",
+        "description": "Cam Skattebo",
+        "sportId": 28,
+        "athleteId": 4696981,
+        "athlete": {
+          "id": 4696981,
+          "description": "Cam Skattebo",
+          "links": {
+            "mobile": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/4696981/cam-skattebo"
+              }
+            },
+            "web": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/4696981/cam-skattebo"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 529999,
+        "type": "athlete",
+        "uid": "s:20~l:28~a:4361050",
+        "guid": "b36df804-8242-754d-43b1-9dec06fafcaf",
+        "description": "Isaiah Likely",
+        "sportId": 28,
+        "athleteId": 4361050,
+        "athlete": {
+          "id": 4361050,
+          "description": "Isaiah Likely",
+          "links": {
+            "mobile": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/4361050/isaiah-likely"
+              }
+            },
+            "web": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/4361050/isaiah-likely"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 1352,
+        "type": "team",
+        "uid": "s:20~l:28~t:19",
+        "guid": "378600ea-2397-8364-8399-b7c1606a49a7",
+        "description": "New York Giants",
+        "sportId": 28,
+        "teamId": 19,
+        "team": {
+          "id": 19,
+          "description": "New York Giants",
+          "abbreviation": "NYG",
+          "shortDisplayName": "Giants",
+          "links": {
+            "mobile": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants"
+              }
+            },
+            "web": {
+              "teams": {
+                "href": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 167002,
+        "type": "athlete",
+        "uid": "s:20~l:28~a:3943270",
+        "guid": "a4c346e6-7f33-bc35-33be-4bfc3a353890",
+        "description": "Rasul Douglas",
+        "sportId": 28,
+        "athleteId": 3943270,
+        "athlete": {
+          "id": 3943270,
+          "description": "Rasul Douglas",
+          "links": {
+            "mobile": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/3943270/rasul-douglas"
+              }
+            },
+            "web": {
+              "athletes": {
+                "href": "https://www.espn.com/nfl/player/_/id/3943270/rasul-douglas"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 711824,
+        "type": "editorialindicator",
+        "guid": "d348c764-47d9-3e31-bd75-d39dfde52c26",
+        "description": "SC4U  - Eligible"
+      },
+      {
+        "id": 711821,
+        "type": "editorialindicator",
+        "guid": "f3e05446-8d07-3064-a239-c10c32884ea2",
+        "description": "SC4U - Full Highlight"
+      },
+      {
+        "type": "event",
+        "uid": "s:20~l:28~e:401873052",
+        "guid": "af72fe66-bf61-3051-ab12-963220e028dc",
+        "description": "Washington Commanders @ New York Giants",
+        "eventId": 401873052,
+        "event": {
+          "id": 401873052,
+          "sport": "football",
+          "league": "nfl",
+          "description": "Washington Commanders @ New York Giants",
+          "links": {
+            "mobile": {
+              "event": {
+                "href": "https://www.espn.com/nfl/game/_/gameId/401873052"
+              }
+            },
+            "web": {
+              "event": {
+                "href": "https://www.espn.com/nfl/game/_/gameId/401873052"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "links": {
+      "api": {
+        "artwork": {
+          "href": "https://artwork.api.espn.com/artwork/collections/media/41e65d8d-4ff0-40ad-b0e9-db1c1f16e576"
+        },
+        "self": {
+          "href": "https://content.core.api.espn.com/v1/video/clips/50468530"
+        }
+      },
+      "sportscenter": {
+        "href": "sportscenter://x-callback-url/showVideo?videoID=50468530&videoDSI=8615b26ae0589"
+      },
+      "web": {
+        "href": "https://www.espn.com/video/clip/_/id/50468530/commanders-outlast-giants-24-21-nfc-east-tnf-thriller",
+        "self": {
+          "href": "https://www.espn.com/video/clip/_/id/50468530/commanders-outlast-giants-24-21-nfc-east-tnf-thriller",
+          "dsi": {
+            "href": "https://www.espn.com/video/clip?id=8615b26ae0589"
+          }
+        }
+      }
+    },
+    "premium": false
+  }
+]

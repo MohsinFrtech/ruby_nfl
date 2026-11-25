@@ -1,0 +1,758 @@
+{
+  "player_overview": {
+    "statistics": {
+      "displayName": "2026 Passing",
+      "categories": [
+        {
+          "name": "passing",
+          "displayName": "Passing",
+          "count": 10
+        },
+        {
+          "name": "rushing",
+          "displayName": "Rushing",
+          "count": 5
+        }
+      ],
+      "labels": [
+        "CMP",
+        "ATT",
+        "CMP%",
+        "YDS",
+        "AVG",
+        "TD",
+        "INT",
+        "LNG",
+        "SACK",
+        "RTG",
+        "CAR",
+        "YDS",
+        "AVG",
+        "TD",
+        "LNG"
+      ],
+      "names": [
+        "completions",
+        "passingAttempts",
+        "completionPct",
+        "passingYards",
+        "yardsPerPassAttempt",
+        "passingTouchdowns",
+        "interceptions",
+        "longPassing",
+        "sacks",
+        "QBRating",
+        "rushingAttempts",
+        "rushingYards",
+        "yardsPerRushAttempt",
+        "rushingTouchdowns",
+        "longRushing"
+      ],
+      "displayNames": [
+        "Completions",
+        "Passing Attempts",
+        "Completion Percentage",
+        "Passing Yards",
+        "Yards Per Pass Attempt",
+        "Passing Touchdowns",
+        "Interceptions",
+        "Longest Pass",
+        "Total Sacks",
+        "Passer Rating",
+        "Rushing Attempts",
+        "Rushing Yards",
+        "Yards Per Rush Attempt",
+        "Rushing Touchdowns",
+        "Long Rushing"
+      ],
+      "splits": [
+        {
+          "displayName": "Regular Season",
+          "stats": [
+            "186",
+            "308",
+            "60.4",
+            "2,197",
+            "7.1",
+            "16",
+            "6",
+            "55",
+            "26",
+            "91.3",
+            "11",
+            "47",
+            "4.3",
+            "1",
+            "13"
+          ]
+        },
+        {
+          "displayName": "Projected",
+          "stats": [
+            "395",
+            "654",
+            "60.4",
+            "4,668",
+            "7.1",
+            "34",
+            "12",
+            "55",
+            "55.3",
+            "91.3",
+            "23",
+            "99",
+            "4.3",
+            "2",
+            "13"
+          ]
+        },
+        {
+          "displayName": "Last 5 Games",
+          "stats": [
+            "114",
+            "187",
+            "60.3",
+            "1,258",
+            "6.7",
+            "9",
+            "4",
+            "50",
+            "19",
+            "85.8",
+            "8",
+            "31",
+            "6.3",
+            "0",
+            "13"
+          ]
+        },
+        {
+          "displayName": "Career",
+          "stats": [
+            "1039",
+            "1697",
+            "61.2",
+            "10,488",
+            "6.2",
+            "65",
+            "36",
+            "83",
+            "144",
+            "82.8",
+            "147",
+            "765",
+            "5.2",
+            "9",
+            "34"
+          ]
+        }
+      ]
+    },
+    "news": [
+      {
+        "headline": "Fantasy football matchup ranks: Upgrade Ollie Gordon II, downgrade Jordan Love",
+        "lastModified": "2026-11-12T17:39:17.000+00:00",
+        "root": "ffl/2026",
+        "premium": false,
+        "links": {
+          "web": {
+            "href": "https://www.espn.com/fantasy/football/story/_/id/50446940/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te"
+          }
+        },
+        "type": "Story",
+        "section": "Fantasy NFL",
+        "id": 50446940,
+        "categorized": "2026-11-12T20:59:07Z",
+        "description": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+        "nowId": "1-50446940",
+        "allowComments": true,
+        "images": [
+          {
+            "type": "header",
+            "url": "https://a.espncdn.com/photo/example.jpg",
+            "name": "x",
+            "width": 600,
+            "height": 400
+          }
+        ],
+        "published": "2026-11-12T17:39:17.000+00:00",
+        "byline": "Tristan H. Cockcroft",
+        "dataSourceIdentifier": "1008633a76a65"
+      },
+      {
+        "headline": "Fantasy football: Prep for Week 11 'Bye-mageddon' by stashing these players now",
+        "lastModified": "2026-11-11T15:26:26.000+00:00",
+        "root": "ffl/2026",
+        "premium": false,
+        "links": {
+          "web": {
+            "href": "https://www.espn.com/fantasy/football/story/_/id/50445909/fantasy-football-bye-week-replacements-byemageddon"
+          }
+        },
+        "type": "Story",
+        "section": "Fantasy NFL",
+        "id": 50445909,
+        "categorized": "2026-11-12T20:59:20Z",
+        "description": "Stash these players ahead of Week 11, when six NFL teams' worth of fantasy football stars will be on bye.",
+        "nowId": "1-50445909",
+        "allowComments": true,
+        "images": [
+          {
+            "type": "header",
+            "url": "https://a.espncdn.com/photo/example.jpg",
+            "name": "x",
+            "width": 600,
+            "height": 400
+          }
+        ],
+        "published": "2026-11-11T15:26:26.000+00:00",
+        "byline": "Adam Rank",
+        "dataSourceIdentifier": "5070fdfeebae4"
+      },
+      {
+        "headline": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
+        "lastModified": "2026-11-08T17:24:34.000+00:00",
+        "root": "espn/betting",
+        "premium": false,
+        "links": {
+          "web": {
+            "href": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games"
+          }
+        },
+        "type": "Story",
+        "section": "Betting",
+        "id": 50389829,
+        "categorized": "2026-11-13T03:19:35Z",
+        "description": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
+        "nowId": "1-50389829",
+        "allowComments": true,
+        "images": [
+          {
+            "type": "header",
+            "url": "https://a.espncdn.com/photo/example.jpg",
+            "name": "x",
+            "width": 600,
+            "height": 400
+          }
+        ],
+        "published": "2026-11-08T17:24:34.000+00:00",
+        "byline": "Ben Solak, Seth Walder, Matt Bowen and Mike Clay",
+        "source": "ESPN",
+        "dataSourceIdentifier": "29ce1e55a1d58"
+      }
+    ],
+    "nextGame": {
+      "displayName": "Next Game",
+      "league": {
+        "id": "28",
+        "name": "National Football League",
+        "shortName": "NFL",
+        "abbreviation": "NFL",
+        "slug": "nfl",
+        "events": [
+          {
+            "id": "401873055",
+            "competitionId": "401873055",
+            "date": "2026-11-15T18:00:00.000+00:00",
+            "timeValid": true,
+            "name": "Carolina Panthers at New Orleans Saints",
+            "shortName": "CAR @ NO",
+            "location": "Caesars Superdome",
+            "season": 2026,
+            "seasonType": 2,
+            "seasonTypeHasGroups": false,
+            "week": 10,
+            "weekText": "Week 10",
+            "period": 0,
+            "clock": "0.0",
+            "status": "pre",
+            "fullStatus": {
+              "clock": "0.0",
+              "displayClock": "0:00",
+              "period": 0,
+              "type": {
+                "id": "1",
+                "name": "STATUS_SCHEDULED",
+                "description": "Scheduled",
+                "detail": "Sun, November 15th at 1:00 PM EST",
+                "shortDetail": "11/15 - 1:00 PM EST",
+                "state": "pre",
+                "completed": false
+              }
+            },
+            "broadcasts": [
+              {
+                "type": "TV",
+                "typeId": 1,
+                "isNational": true,
+                "broadcasterId": 148,
+                "broadcastId": 148,
+                "priority": 1,
+                "name": "Fox",
+                "shortName": "Fox",
+                "callLetters": "Fox",
+                "station": "Fox",
+                "region": "us",
+                "language": "en"
+              }
+            ],
+            "broadcast": "Fox",
+            "competitors": [
+              {
+                "id": "18",
+                "type": "team",
+                "order": 0,
+                "color": "d3bc8d",
+                "alternateColor": "000000",
+                "group": "11",
+                "homeAway": "home",
+                "abbreviation": "NO",
+                "location": "New Orleans",
+                "displayName": "New Orleans Saints",
+                "score": "0",
+                "record": "3-5",
+                "name": "Saints"
+              },
+              {
+                "id": "29",
+                "type": "team",
+                "order": 1,
+                "color": "0085ca",
+                "alternateColor": "000000",
+                "group": "11",
+                "homeAway": "away",
+                "abbreviation": "CAR",
+                "location": "Carolina",
+                "displayName": "Carolina Panthers",
+                "score": "0",
+                "record": "3-5",
+                "name": "Panthers"
+              }
+            ],
+            "onWatch": false,
+            "recent": false,
+            "odds": {
+              "provider": {
+                "id": "100",
+                "name": "DraftKings",
+                "priority": 1
+              },
+              "details": "NO -2.5",
+              "overUnder": 48.5,
+              "spread": -2.5,
+              "overOdds": -112,
+              "underOdds": -108,
+              "awayTeamOdds": {
+                "team": {
+                  "id": "29",
+                  "abbreviation": "CAR"
+                },
+                "favorite": false,
+                "underdog": true,
+                "moneyLine": 114,
+                "spreadOdds": -112
+              },
+              "homeTeamOdds": {
+                "team": {
+                  "id": "18",
+                  "abbreviation": "NO"
+                },
+                "favorite": true,
+                "underdog": false,
+                "moneyLine": -135,
+                "spreadOdds": -108
+              },
+              "moneylineWinner": false,
+              "spreadWinner": false
+            }
+          }
+        ]
+      },
+      "summaryStatistics": [
+        {
+          "splitId": "0",
+          "splitAbbreviation": "Any",
+          "splitName": "All Splits",
+          "shortDisplayName": "QBR",
+          "displayValue": "64.8",
+          "splitBy": "byOpponent",
+          "name": "adjQBR",
+          "displayName": "Adjusted QBR",
+          "abbreviation": "QBR"
+        },
+        {
+          "splitId": "0",
+          "splitAbbreviation": "Any",
+          "splitName": "All Splits",
+          "shortDisplayName": "CMP%",
+          "displayValue": "60.4",
+          "splitBy": "byOpponent",
+          "name": "completionPct",
+          "displayName": "Completion Percentage",
+          "abbreviation": "CMP%"
+        },
+        {
+          "splitId": "0",
+          "splitAbbreviation": "Any",
+          "splitName": "All Splits",
+          "shortDisplayName": "Pass Yards",
+          "displayValue": "2,197",
+          "splitBy": "byOpponent",
+          "name": "passingYards",
+          "displayName": "Passing Yards",
+          "abbreviation": "YDS"
+        },
+        {
+          "splitId": "0",
+          "splitAbbreviation": "Any",
+          "splitName": "All Splits",
+          "shortDisplayName": "Touchdowns",
+          "displayValue": "16",
+          "splitBy": "byOpponent",
+          "name": "passingTouchdowns",
+          "displayName": "Passing Touchdowns",
+          "abbreviation": "TD"
+        }
+      ],
+      "statistics": {
+        "labels": [
+          "CMP",
+          "ATT",
+          "CMP%",
+          "YDS",
+          "AVG",
+          "TD",
+          "INT",
+          "LNG",
+          "SACK",
+          "RTG",
+          "CAR",
+          "YDS",
+          "AVG",
+          "TD",
+          "LNG"
+        ],
+        "names": [
+          "completions",
+          "passingAttempts",
+          "completionPct",
+          "passingYards",
+          "yardsPerPassAttempt",
+          "passingTouchdowns",
+          "interceptions",
+          "longPassing",
+          "sacks",
+          "QBRating",
+          "rushingAttempts",
+          "rushingYards",
+          "yardsPerRushAttempt",
+          "rushingTouchdowns",
+          "longRushing"
+        ],
+        "displayNames": [
+          "Completions",
+          "Passing Attempts",
+          "Completion Percentage",
+          "Passing Yards",
+          "Yards Per Pass Attempt",
+          "Passing Touchdowns",
+          "Interceptions",
+          "Longest Pass",
+          "Total Sacks",
+          "Passer Rating",
+          "Rushing Attempts",
+          "Rushing Yards",
+          "Yards Per Rush Attempt",
+          "Rushing Touchdowns",
+          "Long Rushing"
+        ],
+        "splits": [
+          {
+            "displayName": "Nov",
+            "stats": [
+              "28",
+              "39",
+              "71.8",
+              "276",
+              "7.1",
+              "3",
+              "1",
+              "25",
+              "3",
+              "106.4",
+              "1",
+              "13",
+              "13.0",
+              "0",
+              "13"
+            ],
+            "type": "byMonth"
+          },
+          {
+            "displayName": "Away",
+            "stats": [
+              "92",
+              "164",
+              "56.1",
+              "1,068",
+              "6.5",
+              "7",
+              "2",
+              "55",
+              "13",
+              "85.1",
+              "4",
+              "12",
+              "3.0",
+              "0",
+              "8"
+            ],
+            "type": "split"
+          },
+          {
+            "displayName": "vs NFC",
+            "stats": [
+              "132",
+              "221",
+              "59.7",
+              "1,630",
+              "7.4",
+              "12",
+              "4",
+              "55",
+              "20",
+              "93.1",
+              "10",
+              "34",
+              "3.4",
+              "1",
+              "9"
+            ],
+            "type": "byConference"
+          }
+        ]
+      }
+    },
+    "gameLog": {
+      "displayName": "Recent Games",
+      "statistics": [
+        {
+          "displayName": "Passing",
+          "labels": [
+            "CMP",
+            "ATT",
+            "YDS",
+            "CMP%",
+            "AVG",
+            "TD",
+            "INT",
+            "LNG",
+            "SACK",
+            "RTG",
+            "QBR"
+          ],
+          "names": [
+            "completions",
+            "passingAttempts",
+            "passingYards",
+            "completionPct",
+            "yardsPerPassAttempt",
+            "passingTouchdowns",
+            "interceptions",
+            "longPassing",
+            "sacks",
+            "QBRating",
+            "adjQBR"
+          ],
+          "displayNames": [
+            "Completions",
+            "Passing Attempts",
+            "Passing Yards",
+            "Completion Percentage",
+            "Yards Per Pass Attempt",
+            "Passing Touchdowns",
+            "Interceptions",
+            "Longest Pass",
+            "Total Sacks",
+            "Passer Rating",
+            "Adjusted QBR"
+          ],
+          "events": [
+            {
+              "eventId": "401872998",
+              "stats": [
+                "20",
+                "39",
+                "281",
+                "51.3",
+                "7.2",
+                "2",
+                "0",
+                "32",
+                "2",
+                "91.9",
+                "40.7"
+              ]
+            },
+            {
+              "eventId": "401872978",
+              "stats": [
+                "29",
+                "41",
+                "329",
+                "70.7",
+                "8.0",
+                "2",
+                "0",
+                "32",
+                "3",
+                "110.7",
+                "89.7"
+              ]
+            }
+          ]
+        },
+        {
+          "displayName": "Rushing",
+          "labels": [
+            "CAR",
+            "YDS",
+            "AVG",
+            "TD",
+            "LNG"
+          ],
+          "names": [
+            "rushingAttempts",
+            "rushingYards",
+            "yardsPerRushAttempt",
+            "rushingTouchdowns",
+            "longRushing"
+          ],
+          "displayNames": [
+            "Rushing Attempts",
+            "Rushing Yards",
+            "Yards Per Rush Attempt",
+            "Rushing Touchdowns",
+            "Long Rushing"
+          ],
+          "events": [
+            {
+              "eventId": "401872998",
+              "stats": [
+                "3",
+                "6",
+                "2.0",
+                "0",
+                "8"
+              ]
+            },
+            {
+              "eventId": "401872978",
+              "stats": [
+                "3",
+                "3",
+                "1.0",
+                "0",
+                "7"
+              ]
+            }
+          ]
+        }
+      ],
+      "events": {
+        "401872978": {
+          "id": "401872978",
+          "week": 4,
+          "atVs": "vs",
+          "gameDate": "2026-10-05T00:20:00.000+00:00",
+          "score": "32-26",
+          "homeTeamId": "29",
+          "awayTeamId": "8",
+          "homeTeamScore": "32",
+          "awayTeamScore": "26",
+          "gameResult": "W",
+          "opponent": {
+            "id": "8",
+            "displayName": "Detroit Lions",
+            "abbreviation": "DET"
+          },
+          "leagueName": "National Football League",
+          "leagueAbbreviation": "NFL",
+          "leagueShortName": "NFL",
+          "team": {
+            "id": "29",
+            "abbreviation": "CAR",
+            "isAllStar": false
+          }
+        },
+        "401872998": {
+          "id": "401872998",
+          "week": 6,
+          "atVs": "@",
+          "gameDate": "2026-10-18T17:00:00.000+00:00",
+          "score": "25-14",
+          "homeTeamId": "21",
+          "awayTeamId": "29",
+          "homeTeamScore": "14",
+          "awayTeamScore": "25",
+          "gameResult": "W",
+          "opponent": {
+            "id": "21",
+            "displayName": "Philadelphia Eagles",
+            "abbreviation": "PHI"
+          },
+          "leagueName": "National Football League",
+          "leagueAbbreviation": "NFL",
+          "leagueShortName": "NFL",
+          "team": {
+            "id": "29",
+            "abbreviation": "CAR",
+            "isAllStar": false
+          }
+        }
+      }
+    },
+    "rotowire": {
+      "headline": "Young completed 28 of 39 passes for 276 yards and three touchdowns with one interception in Sunday's 26-21 loss to the Broncos. He added 13 yards on his only carry and lost a fumble.",
+      "story": "The fourth-year QB tossed TDs in each of the last three quarters, finding Tommy Tremble, Darren Waller and Tetairoa McMillan, but Young's attempt to engineer a game-winning drive inside the final two minutes ended on a Nik Bonitto strip sack. It's the third time this season Young has thrown three touchdowns, but his first such performance since Week 2. He'll take a 16:6 TD:INT through eight games into a Week 10 clash with the Saints.",
+      "description": "Young completed 28 of 39 passes for 276 yards and three touchdowns with one interception in Sunday's 26-21 loss to the Broncos. He added 13 yards on his only carry and lost a fumble.",
+      "published": "Sun Nov 08 16:07:48 PST 2026"
+    },
+    "fantasy": {
+      "draftRank": "313",
+      "positionRank": "11",
+      "percentOwned": "80.58",
+      "last7Days": "1.8",
+      "projection": "Young has yet to find his way to any sort of fantasy relevance during his first three NFL seasons. The 2023 No. 1 draft pick has yet to finish a season better than 20th in passing yards, 10th in rushing yards or 24th in fantasy points per game. Efficiency has been a problem, as last season's career-high 6.3 yards per attempt was barely up from 2024 and still among the worst in the NFL. Young's 47.6 QBR last season ranked 22nd among 28 qualified quarterbacks. Perhaps the 25-year-old will make a leap in top target Tetairoa McMillan's second season and Brad Idzik's debut as the offensive playcaller, but it will be asking a lot to expect QB1 production. Young is best viewed as a fringe QB2 in 12-team leagues."
+    },
+    "awards": [
+      {
+        "id": "484",
+        "league": "nfl",
+        "name": "Walter Payton NFL Man of the Year",
+        "displayCount": "1x",
+        "seasons": [
+          "1998"
+        ]
+      },
+      {
+        "id": "477",
+        "league": "nfl",
+        "name": "NFL MVP",
+        "displayCount": "1x",
+        "seasons": [
+          "1984"
+        ]
+      },
+      {
+        "id": "478",
+        "league": "nfl",
+        "name": "NFL Offensive Player of the Year",
+        "displayCount": "1x",
+        "seasons": [
+          "1984"
+        ]
+      }
+    ]
+  }
+}
