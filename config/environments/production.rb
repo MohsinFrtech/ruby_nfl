@@ -21,16 +21,18 @@ Rails.application.configure do
   # Store uploaded files on the local file system (see config/storage.yml for options).
   config.active_storage.service = :local
 
-  # Render (like most hosts) ends the HTTPS connection at its own front door and passes the
-  # request on to us as plain HTTP. assume_ssl tells Rails to trust that the visitor really
-  # used HTTPS. Without it, force_ssl below would redirect every request forever.
-  config.assume_ssl = true
+  # Heroku ends the HTTPS connection at its router and passes the request on as plain HTTP,
+  # with an X-Forwarded-Proto header saying what the visitor really used ("https" or "http").
+  # Rails reads that header, so force_ssl below can redirect http:// visitors to https://.
+  # Do NOT set config.assume_ssl = true here: it makes Rails treat EVERY request as HTTPS,
+  # so http:// requests would be answered instead of redirected. (Only for hosts that do
+  # not send X-Forwarded-Proto.)
 
   # Force all access to the app over SSL, use Strict-Transport-Security, and use secure cookies.
   config.force_ssl = true
 
   # Skip http-to-https redirect for the default health check endpoint.
-  # (Render's health check calls /up over plain HTTP and must get a 200, not a redirect.)
+  # (A health check may call /up over plain HTTP and must get a 200, not a redirect.)
   config.ssl_options = { redirect: { exclude: ->(request) { request.path == "/up" } } }
 
   # Log to STDOUT with the current request id as a default log tag.
