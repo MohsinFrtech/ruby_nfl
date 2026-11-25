@@ -27,11 +27,18 @@ class NflApiClientTest < ActiveSupport::TestCase
     end
   end
 
-  # Replaces Net::HTTP.start so no real request is made. The code under test
-  # still runs its normal `Net::HTTP.start(...) { |http| http.request(...) }`.
+  # Made-up RapidAPI credentials. The tests never read the real ones, so they pass without
+  # config/master.key (as on GitHub CI) and can never leak or use the real API key.
+  FAKE_RAPIDAPI = { key: "test-rapidapi-key", host: "nfl-api1.p.rapidapi.com" }.freeze
+  FakeCredentials = Struct.new(:rapidapi)
+
+  # Replaces Net::HTTP.start so no real request is made, and the credentials with the fake
+  # ones. The code under test still runs its normal `Net::HTTP.start(...) { |http| ... }`.
   def with_fake_http(connection)
     fake_start = ->(*_args, **_options, &block) { block.call(connection) }
-    Net::HTTP.stub(:start, fake_start) { yield }
+    Rails.application.stub(:credentials, FakeCredentials.new(FAKE_RAPIDAPI)) do
+      Net::HTTP.stub(:start, fake_start) { yield }
+    end
   end
 
   test "team_list returns the parsed JSON on success" do
@@ -49,10 +56,9 @@ class NflApiClientTest < ActiveSupport::TestCase
     with_fake_http(connection) { NflApiClient.new.team_list }
 
     request = connection.request_received
-    credentials = Rails.application.credentials.rapidapi
     assert_equal "/nflteamlist", request.path
-    assert_equal credentials[:key], request["x-rapidapi-key"]
-    assert_equal credentials[:host], request["x-rapidapi-host"]
+    assert_equal FAKE_RAPIDAPI[:key], request["x-rapidapi-key"]
+    assert_equal FAKE_RAPIDAPI[:host], request["x-rapidapi-host"]
   end
 
   test "news requests /nfl-news and returns the parsed JSON list" do

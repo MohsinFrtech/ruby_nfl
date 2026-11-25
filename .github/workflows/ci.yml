@@ -76,7 +76,8 @@ jobs:
           RAILS_ENV: test
           # RAILS_MASTER_KEY: ${{ secrets.RAILS_MASTER_KEY }}
           # REDIS_URL: redis://localhost:6379/0
-        run: bin/rails db:test:prepare test
+        # (no db:test:prepare: this app has no database tables, so there is no schema to load)
+        run: bin/rails test
 
   # Deploys to Heroku, but ONLY for a push to main and ONLY after every check above passed
   # (security scans, lint, tests). Pull requests and failed checks never deploy.
